@@ -1,0 +1,36 @@
+<!--
+.style1 {
+  font-size: 28px;
+  color: #FF0000;
+  font-family: "標楷體";
+  font-weight: bold;
+}
+.style2 {
+  color: #0000FF;
+  font-family: Times New Roman;
+}
+.style3 {
+  font-size: 16px;
+  color: #FF0000;
+  font-family: Arial;
+  font-weight: bold;
+}
+body {
+  background-image: url(../images/bg01.gif);
+  margin-left: 70px;
+  font-family:"標楷體",Times New Roman;
+}
+form {
+  font-family:"標楷體",Times New Roman;
+}
+#imgBall {
+  width: 14px;
+  height: 14px;
+}
+input {
+  border-color: efefef; 
+  color: black; 
+  font-family: "標楷體",Times New Roman;
+  font-size: 12pt; 
+}
+-->
